@@ -39,6 +39,11 @@ Heatmap of hospitalization cases
 
 Gender and age-wise infection trends
 
+Sample Visuals
+![Screenshot (45)](https://github.com/user-attachments/assets/53137bbe-ad15-4747-b9b8-38f4decda2f2)
+
+
+
 ⚠️ Notes
 This is a test/sample dataset and may not represent actual case data from any country.
 
