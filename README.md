@@ -29,6 +29,7 @@ Vaccine effectiveness estimation
 
 Dashboard creation in Power BI
 
+
 📊 Sample Visualization Ideas
 Daily test results over time
 
@@ -44,7 +45,7 @@ This is a test/sample dataset and may not represent actual case data from any co
 Ensure that any analysis done using this dataset clarifies that the data is synthetic or anonymized if used publicly.
 
 ✅ How to Use
-Clone or download the repository.
+Clone or download the repository. https://github.com/Archanabhorga/Covid_19-Cases-Test
 
 Open Power BI Desktop.
 
